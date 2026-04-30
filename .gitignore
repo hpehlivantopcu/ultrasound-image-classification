@@ -1,0 +1,12 @@
+Ultrasound/*
+Ultrasound-labeled/*
+
+.DS_Store
+.idea/*
+.ipynb_checkpoints/*
+
+*.pth
+
+data/*
+External_test_set/*
+external_data/*
